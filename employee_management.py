@@ -11,7 +11,7 @@ class Manager(Employee):
         print(f"{self.name} is managing the team")
 
 
-manager = Manager("Sameer")
+manager = Manager("Sanjay")
 
 manager.work()
 manager.manage()
