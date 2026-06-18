@@ -16,7 +16,6 @@ class BankAccount:
     def get_balance(self):
         return self.__balance
 
-
 account = BankAccount(10000)
 
 account.deposit(2000)
