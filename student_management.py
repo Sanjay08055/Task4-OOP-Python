@@ -22,5 +22,5 @@ class Student:
         print("Grade:", self.calculate_grade())
 
 
-student = Student("Sameer", 101, 88)
+student = Student("Sanjay", 101, 88)
 student.display()
