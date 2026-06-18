@@ -3,7 +3,6 @@ class Book:
         self.title = title
         self.issued = False
 
-
 class Library:
 
     def __init__(self):
